@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\TI\\Sp\\Proyek 2\\app fix\\AmifChat\\Chateau\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "D:\\TI\\Sp\\Proyek 2\\app fix\\AmifChat\\Chateau\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "D:\\TI\\Sp\\Proyek 2\\library ajar\\AmifChat\\Chateau\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "D:\\TI\\Sp\\Proyek 2\\library ajar\\AmifChat\\Chateau\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]

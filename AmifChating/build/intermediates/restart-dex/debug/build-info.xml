@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="hdpi"
+    format="7"
+    timestamp="332840786884773"
+    token="8167061289380131118" >
+
+    <task
+        name="javac"
+        duration="9182" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="9805" />
+    <task
+        name="verifier"
+        duration="5162" />
+
+    <artifact
+        location="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\outputs\apk\AmifChating-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="332840786884773" >
+        <artifact
+            location="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\outputs\apk\AmifChating-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1bc6db79f33654d023b0e5cfe8411aff53d7bc9c">
+        <dex dex="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1104e0259123263efa8b443e29629d5c2f108bef\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ryan Septio\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_570658c3a5b1659d09e1f595cceb224a0c17183d\classes.dex" />
+    </item>
+    <item
+        jar="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_d68406459b38827850b9104e839cf616ca44734d\classes.dex" />
+    </item>
+    <item
+        jar="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.1.0_474e70276b3534e46ab7faec44909e6d24e5f6a5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ryan Septio\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_0fa99f5c6ae76885721d8727d50db0e03e5553d5\classes.dex" />
+    </item>
+    <item
+        jar="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_4c313613f5ad6bf57b9d9e45ba10eedb9eac9a89\classes.dex" />
+    </item>
+    <item
+        jar="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_a9d40407f1e8c2f640b3f1f1a2fac1ad5dbc6352\classes.dex" />
+    </item>
+    <item
+        jar="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ca51025f4a58fc7fb6cfaa85e7d09b7ae47e6187">
+        <dex dex="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-0.9.0_3df2d7a31b088febf421a6d77594197ffedd9ae5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ryan Septio\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_7c7b4e064a063c55b76201df25e425d8f20e1bf3\classes.dex" />
+    </item>
+    <item
+        jar="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_ba28561e80c4ea8c540f7c47707890df592523e9\classes.dex" />
+    </item>
+    <item
+        jar="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_840b85b3413f7f984de8af5a5c44577c9399d270\classes.dex" />
+    </item>
+    <item
+        jar="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\4.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de63f5e5393ab9eaa9c7f2d572d06edbc8bf9af0">
+        <dex dex="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\transforms\dex\debug\folders\1000\10\net.hockeyapp.android-HockeySDK-4.0.1_bbaa3fab9c9a5ce1ed1d956eaed8d0069c690ec5\classes.dex" />
+    </item>
+    <item
+        jar="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="39bd9f893c75eac9e76559cc4e96af6e417afdc5">
+        <dex dex="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-0.9.0_c5df3aac11bfaff3a1bc5fcff4f29f9cae4be491\classes.dex" />
+    </item>
+    <item
+        jar="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="57528b5deee77bfa2188fc279fd45066366f17f5">
+        <dex dex="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-0.9.0_221bf9fdb5d6ff449a2107de72a98fbc95b2660c\classes.dex" />
+    </item>
+    <item
+        jar="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3158c15bb0ae97575debdb40cfcd8f0f9f244526">
+        <dex dex="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-0.9.0_37b50214a9306729c7d8dc24038963bfd2c1220a\classes.dex" />
+    </item>
+    <item
+        jar="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_e5a464009250bf6a47459a00706d28f8e8044f9b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ryan Septio\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_88a1920c15dd4375ae6e182f669b405740161b67\classes.dex" />
+    </item>
+    <item
+        jar="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c8b01a5f023d76750863bf98491e709eb0334853">
+        <dex dex="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_92777b242c6774d2b7274da4d3af6fa7843e28e4\classes.dex" />
+    </item>
+    <item
+        jar="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_819b865ab3e87e98e494bcf806154de0ac829507\classes.dex" />
+    </item>
+    <item
+        jar="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4ee95617ab850030c51486d02bc9d207b14419c6">
+        <dex dex="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-0.9.0_4142085a61ea04742020e28cf7d544048be24745\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ryan Septio\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.0\748f0546d5c3c27f1aef07270ffea0c45f0c42a4\rxjava-1.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="D:\TI\Sp\Proyek 2\library ajar\AmifChat\AmifChating\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.0_d9f653d48522efa1a8d32a28669039e1dd216383\classes.dex" />
+    </item>
+
+</items>
